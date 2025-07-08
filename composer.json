@@ -1,0 +1,14 @@
+{
+    "name": "paulemile/maxit-sa",
+    "autoload": {
+        "psr-4": {
+            "Paulemile\\MaxitSa\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Paul"
+        }
+    ],
+    "require": {}
+}
